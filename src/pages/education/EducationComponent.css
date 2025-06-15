@@ -9,10 +9,12 @@
 
 .heading-div {
   display: flex;
+  justify-content: center; /* center items horizontally */
+  gap: 2rem; /* even spacing between image and text */
 }
 
 .heading-div > * {
-  flex: 1;
+  flex: 0 0 auto; /* let each child size to its content */
 }
 
 .heading-img-div {

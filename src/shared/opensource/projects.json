@@ -1,49 +1,17 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "chat-app",
+      "name": "Real-Time Chat App",
+      "createdAt": "2023-02-20T00:00:00Z",
+      "url": "https://github.com/Jashanveer/Chat-app",
+      "description": "Socket.io‑powered chat application enabling real‑time messaging with a Node.js + Express backend and a responsive vanilla JS/HTML/CSS frontend.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -51,25 +19,21 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "weather-finder",
+      "name": "Real-Time Weather Finder",
+      "createdAt": "2023-03-15T00:00:00Z",
+      "url": "https://github.com/Jashanveer/Real-Time-Weather-Finder",
+      "description": "Full‑stack weather dashboard fetching live conditions from the OpenWeatherMap API and displaying temperature, humidity, and a 5‑day forecast based on user search or geolocation.",
       "isFork": false,
       "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -77,10 +41,20 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
+        }
+      ]
+    },
+    {
+      "id": "task-manager-api",
+      "name": "Task Manager API",
+      "createdAt": "2023-04-10T00:00:00Z",
+      "url": "https://github.com/Jashanveer/Task-manager-api",
+      "description": "RESTful API for managing user‑specific task lists with JWT authentication, built using Node.js, Express, and MongoDB with Mongoose.",
+      "isFork": false,
+      "languages": [
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         },
         {
           "name": "JavaScript",
@@ -89,30 +63,42 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "todo-list",
+      "name": "To‑Do List App",
+      "createdAt": "2023-01-12T00:00:00Z",
+      "url": "https://github.com/Jashanveer/ToDoList",
+      "description": "Minimalist web application that lets users create, edit, and delete daily tasks; powered by vanilla JavaScript and persisted with a simple JSON backend.",
       "isFork": false,
       "languages": [
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "buy-books",
+      "name": "Buy Books",
+      "createdAt": "2022-11-05T00:00:00Z",
+      "url": "https://github.com/Jashanveer/Buy_Books",
+      "description": "Static e-commerce front end for browsing and purchasing books, built with pure HTML, CSS, and vanilla JavaScript (no backend). Includes catalogue filtering, cart, and checkout flow handled entirely in-browser.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
